@@ -1,6 +1,8 @@
 
 # Groc-POS: 📱💳
 
+![Groc-POS Project Logo](Project%20Images/logo.png)
+
 Groc-POS is a mobile-based point-of-sale system designed to cater to the needs of small retail stores in Pakistan. It's on a mission to help these businesses manage their inventory and streamline their checkout process using the latest technology. 🚀
 
 # Problem Statement:
