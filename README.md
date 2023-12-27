@@ -55,7 +55,7 @@ Groc-POS App has the following features:
 10. **Shop Profile:** Maintain and update your shop's profile for accurate representation.
 
 ## Project Workflow:
-<img src="https://github.com/UsamaHameed1/Groc-POS-App/blob/main/Project%20Images/Workflow/2023-12-27%2022_15_38-FYP-Poster.jpg%20%E2%80%8E-%20Photos.png" width="150">
+<img src="https://github.com/UsamaHameed1/Groc-POS-App/blob/main/Project%20Images/Workflow/2023-12-27%2022_15_38-FYP-Poster.jpg%20%E2%80%8E-%20Photos.png" width="750">
 
 
 ## Related To Product Recognition Model:
@@ -85,7 +85,7 @@ We have collected a dataset of 17 packed grocery products, which are necessary d
 | Toffee               | Toffee                         | Yums                      |
 | Condiment     | Ketchup                  |   National Ketchup                                  |
 
-<img src="https://github.com/UsamaHameed1/Groc-POS-App/blob/main/Project%20Images/Dataset/image041.png" width="150">
+<img src="https://github.com/UsamaHameed1/Groc-POS-App/blob/main/Project%20Images/Dataset/image041.png" width="750">
 
 
 ### Highlights of the Dataset
@@ -102,23 +102,19 @@ We have trained our dateset on the model Efficient-Det and Efficient-Net for the
 # Model Demo:
 
 ### Multiple Products Detections Using Live Camera Feed (On Device - Object Detection Model Efficient-Det):
-![Groc-POS Project Logo](Project%20Images/Model/image062.png)
-<img src="https://github.com/UsamaHameed1/Groc-POS-App/blob/main/Project%20Images/Model/image062.png" width="150">
+<img src="https://github.com/UsamaHameed1/Groc-POS-App/blob/main/Project%20Images/Model/image062.png" width="350">
 
 ### Multiple Products Detection Using Static Image (On Device - Object Detection Model Efficient-Det):
-![Groc-POS Project Logo](Project%20Images/Model/image066.png)
-<img src="https://github.com/UsamaHameed1/Groc-POS-App/blob/main/Project%20Images/Model/image066.png" width="150">
+<img src="https://github.com/UsamaHameed1/Groc-POS-App/blob/main/Project%20Images/Model/image066.png" width="350">
 
 ### Single Product Detection Model Integration in the App (On Device - Classification Model Efficient-Net):
-![Groc-POS Project Logo](Project%20Images/Model/image067.png)
-<img src="https://github.com/UsamaHameed1/Groc-POS-App/blob/main/Project%20Images/Model/image067.png" width="150">
+<img src="https://github.com/UsamaHameed1/Groc-POS-App/blob/main/Project%20Images/Model/image067.png" width="350">
 
 
 # App Demo 
-![Groc-POS Project Logo](Project%20Images/Demo/Screenshot_20231227_221808.png)
-<img src="https://github.com/UsamaHameed1/Groc-POS-App/blob/main/Project%20Images/Demo/Screenshot_20231227_221808.png" width="150">
+<img src="https://github.com/UsamaHameed1/Groc-POS-App/blob/main/Project%20Images/Demo/Screenshot_20231227_221808.png" width="450">
 
 # FYP Poster
-<img src="https://github.com/UsamaHameed1/Groc-POS-App/blob/main/Project%20Images/Dataset/image041.png" width="150">
+<img src="https://github.com/UsamaHameed1/Groc-POS-App/blob/main/Project%20Images/Poster/Poster.jpg" width="750">
 
 # For Code Access Email Me !!!!
