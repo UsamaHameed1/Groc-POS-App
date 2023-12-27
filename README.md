@@ -102,14 +102,16 @@ We have trained our dateset on the model Efficient-Det and Efficient-Net for the
 ![Groc-POS Project Logo](Project%20Images/Model/image062.png)
 
 ### Multiple Products Detection Using Static Image (On Device - Object Detection Model Efficient-Det):
-![Groc-POS Project Logo](Project%20Images/Dataset/image066.png)
+![Groc-POS Project Logo](Project%20Images/Model/image066.png)
 
 ### Single Product Detection Model Integration in the App (On Device - Classification Model Efficient-Net):
-![Groc-POS Project Logo](Project%20Images/Dataset/image067.png)
+![Groc-POS Project Logo](Project%20Images/Model/image067.png)
 
 
-# App Demo Video
-
+# App Demo 
+![Groc-POS Project Logo](Project%20Images/Demo/Screenshot_20231227_221808.png)
 
 # FYP Poster
+![Groc-POS Project Logo](Project%20Images/Poster/GROC-POS%20FYP%20-1%20Poster%20.svg)
+
 # For Code Access Email Me !!!!
