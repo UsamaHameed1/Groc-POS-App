@@ -82,6 +82,9 @@ We have collected a dataset of 17 packed grocery products, which are necessary d
 | Toffee               | Toffee                         | Yums                      |
 | Condiment     | Ketchup                  |   National Ketchup                                  |
 
+![Groc-POS Project Logo](Project%20Images/Dataset/image041.png)
+
+
 ### Highlights of the Dataset
 
 1. **Limited Dataset:** We have focused our dataset on 16 packed grocery items to ensure a manageable and specific collection.
@@ -96,10 +99,13 @@ We have trained our dateset on the model Efficient-Det and Efficient-Net for the
 # Model Demo:
 
 ### Multiple Products Detections Using Live Camera Feed (On Device - Object Detection Model Efficient-Det):
+![Groc-POS Project Logo](Project%20Images/Model/image062.png)
 
 ### Multiple Products Detection Using Static Image (On Device - Object Detection Model Efficient-Det):
+![Groc-POS Project Logo](Project%20Images/Dataset/image066.png)
 
 ### Single Product Detection Model Integration in the App (On Device - Classification Model Efficient-Net):
+![Groc-POS Project Logo](Project%20Images/Dataset/image067.png)
 
 
 # App Demo Video
