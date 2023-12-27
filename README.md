@@ -3,7 +3,7 @@
 
 Groc-POS is a mobile-based point-of-sale system designed to cater to the needs of small retail stores in Pakistan. It's on a mission to help these businesses manage their inventory and streamline their checkout process using the latest technology. 🚀
 
-# Problem Statement: Traditional Retail Challenges in Pakistan
+# Problem Statement:
 
 In the context of small retail stores in Pakistan, managing inventory and streamlining the checkout process remains a significant challenge. These businesses often grapple with outdated processes, manual inventory management, and a lack of efficient point-of-sale solutions. The absence of modern technology in day-to-day operations leads to inefficiencies, resource wastage, and a suboptimal shopping experience for both store owners and customers.
 
